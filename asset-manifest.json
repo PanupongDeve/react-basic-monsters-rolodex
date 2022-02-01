@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-relodex/static/css/main.43e8f6fc.css",
+    "main.js": "/monsters-relodex/static/js/main.45f845ac.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/monsters-relodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/monsters-relodex/index.html",
+    "main.43e8f6fc.css.map": "/monsters-relodex/static/css/main.43e8f6fc.css.map",
+    "main.45f845ac.js.map": "/monsters-relodex/static/js/main.45f845ac.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/monsters-relodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e8f6fc.css",
+    "static/js/main.45f845ac.js"
+  ]
+}
